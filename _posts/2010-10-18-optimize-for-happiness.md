@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Âí»áÔªÊÇSX£¬Yes£¡
+title: é©¬ä¼šå…ƒæ˜¯SXï¼ŒOH YESï¼
 ---
 
 {{ page.title }}
