@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 马会元是SX
+title: 马会元是SX，Yes！
 ---
 
 {{ page.title }}
